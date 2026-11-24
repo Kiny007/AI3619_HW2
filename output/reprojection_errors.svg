@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="420" viewBox="0 0 1040 420">
+<rect width="100%" height="100%" fill="white"/>
+<g font-family="Arial,sans-serif" font-size="13" fill="#24324a">
+<text x="65" y="25" font-size="20">Reprojection RMSE per image (pixels)</text>
+<line x1="65" y1="335.0" x2="1010" y2="335.0" stroke="#dde3ea"/>
+<text x="15" y="339.0">0.00</text>
+<line x1="65" y1="279.0" x2="1010" y2="279.0" stroke="#dde3ea"/>
+<text x="15" y="283.0">2.52</text>
+<line x1="65" y1="223.0" x2="1010" y2="223.0" stroke="#dde3ea"/>
+<text x="15" y="227.0">5.03</text>
+<line x1="65" y1="167.0" x2="1010" y2="167.0" stroke="#dde3ea"/>
+<text x="15" y="171.0">7.55</text>
+<line x1="65" y1="110.99999999999999" x2="1010" y2="110.99999999999999" stroke="#dde3ea"/>
+<text x="15" y="114.99999999999999">10.06</text>
+<line x1="65" y1="55.0" x2="1010" y2="55.0" stroke="#dde3ea"/>
+<text x="15" y="59.0">12.58</text>
+<rect x="68.76" y="324.8307153989193" width="12.784" height="10.169284601080694" fill="#298a80"/>
+<rect x="83.048" y="324.8307153989193" width="12.784" height="10.169284601080694" fill="#da8750"/>
+<text x="83.8" y="355" text-anchor="middle">1</text>
+<rect x="106.36" y="328.74503719123754" width="12.784" height="6.254962808762464" fill="#298a80"/>
+<rect x="120.648" y="328.74503719123754" width="12.784" height="6.254962808762464" fill="#da8750"/>
+<text x="121.39999999999999" y="355" text-anchor="middle">2</text>
+<rect x="143.95999999999998" y="318.7948213575104" width="12.784" height="16.205178642489592" fill="#298a80"/>
+<rect x="158.248" y="316.9905812235506" width="12.784" height="18.009418776449436" fill="#da8750"/>
+<text x="159.0" y="355" text-anchor="middle">3</text>
+<rect x="181.56" y="292.6637304725941" width="12.784" height="42.336269527405875" fill="#298a80"/>
+<rect x="195.848" y="282.96620702831" width="12.784" height="52.03379297168997" fill="#da8750"/>
+<text x="196.60000000000002" y="355" text-anchor="middle">4</text>
+<rect x="219.16" y="284.27161303196795" width="12.784" height="50.72838696803207" fill="#298a80"/>
+<rect x="233.448" y="91.52173913043475" width="12.784" height="243.47826086956525" fill="#da8750"/>
+<text x="234.20000000000002" y="355" text-anchor="middle">5</text>
+<rect x="256.76" y="304.32269439418315" width="12.784" height="30.677305605816883" fill="#298a80"/>
+<rect x="271.048" y="290.677684869654" width="12.784" height="44.32231513034598" fill="#da8750"/>
+<text x="271.8" y="355" text-anchor="middle">6</text>
+<rect x="294.36" y="318.0249439177384" width="12.784" height="16.97505608226159" fill="#298a80"/>
+<rect x="308.648" y="317.86701532405414" width="12.784" height="17.132984675945874" fill="#da8750"/>
+<text x="309.40000000000003" y="355" text-anchor="middle">7</text>
+<rect x="331.96" y="319.51682199889837" width="12.784" height="15.483178001101624" fill="#298a80"/>
+<rect x="346.248" y="319.51682199889837" width="12.784" height="15.483178001101624" fill="#da8750"/>
+<text x="347.0" y="355" text-anchor="middle">8</text>
+<rect x="369.56" y="312.7424667258945" width="12.784" height="22.25753327410552" fill="#298a80"/>
+<rect x="383.848" y="312.7424667258945" width="12.784" height="22.25753327410552" fill="#da8750"/>
+<text x="384.6" y="355" text-anchor="middle">9</text>
+<rect x="407.16" y="320.8321164715141" width="12.784" height="14.167883528485898" fill="#298a80"/>
+<rect x="421.44800000000004" y="320.8321164715141" width="12.784" height="14.167883528485898" fill="#da8750"/>
+<text x="422.20000000000005" y="355" text-anchor="middle">10</text>
+<rect x="444.76" y="321.8106804185349" width="12.784" height="13.189319581465098" fill="#298a80"/>
+<rect x="459.048" y="321.6997709930603" width="12.784" height="13.300229006939677" fill="#da8750"/>
+<text x="459.8" y="355" text-anchor="middle">11</text>
+<rect x="482.36" y="311.2570138527168" width="12.784" height="23.742986147283222" fill="#298a80"/>
+<rect x="496.648" y="308.9542748216532" width="12.784" height="26.045725178346824" fill="#da8750"/>
+<text x="497.40000000000003" y="355" text-anchor="middle">12</text>
+<rect x="519.96" y="325.94139671200816" width="12.784" height="9.058603287991838" fill="#298a80"/>
+<rect x="534.248" y="325.94139671200816" width="12.784" height="9.058603287991838" fill="#da8750"/>
+<text x="535.0" y="355" text-anchor="middle">13</text>
+<rect x="557.56" y="326.68403127552045" width="12.784" height="8.315968724479573" fill="#298a80"/>
+<rect x="571.848" y="326.68403127552045" width="12.784" height="8.315968724479573" fill="#da8750"/>
+<text x="572.5999999999999" y="355" text-anchor="middle">14</text>
+<rect x="595.16" y="324.2471369175944" width="12.784" height="10.752863082405604" fill="#298a80"/>
+<rect x="609.448" y="323.0132103797318" width="12.784" height="11.986789620268215" fill="#da8750"/>
+<text x="610.1999999999999" y="355" text-anchor="middle">15</text>
+<rect x="632.76" y="326.2205585421642" width="12.784" height="8.779441457835802" fill="#298a80"/>
+<rect x="647.048" y="324.8814510100119" width="12.784" height="10.118548989988058" fill="#da8750"/>
+<text x="647.8" y="355" text-anchor="middle">16</text>
+<rect x="670.36" y="328.5822731080207" width="12.784" height="6.417726891979342" fill="#298a80"/>
+<rect x="684.648" y="314.968760198316" width="12.784" height="20.03123980168402" fill="#da8750"/>
+<text x="685.4" y="355" text-anchor="middle">17</text>
+<rect x="707.96" y="320.70009214963756" width="12.784" height="14.299907850362418" fill="#298a80"/>
+<rect x="722.248" y="306.47174256232654" width="12.784" height="28.528257437673435" fill="#da8750"/>
+<text x="723.0" y="355" text-anchor="middle">18</text>
+<rect x="745.5600000000001" y="310.69335577589254" width="12.784" height="24.306644224107433" fill="#298a80"/>
+<rect x="759.8480000000001" y="263.63816872949025" width="12.784" height="71.36183127050977" fill="#da8750"/>
+<text x="760.6" y="355" text-anchor="middle">19</text>
+<rect x="783.16" y="326.62718077246944" width="12.784" height="8.372819227530561" fill="#298a80"/>
+<rect x="797.448" y="306.48888613806736" width="12.784" height="28.511113861932643" fill="#da8750"/>
+<text x="798.1999999999999" y="355" text-anchor="middle">20</text>
+<rect x="820.76" y="325.6500139513059" width="12.784" height="9.349986048694099" fill="#298a80"/>
+<rect x="835.048" y="281.1191292569681" width="12.784" height="53.88087074303187" fill="#da8750"/>
+<text x="835.8" y="355" text-anchor="middle">21</text>
+<rect x="858.36" y="298.63810290281083" width="12.784" height="36.361897097189186" fill="#298a80"/>
+<rect x="872.648" y="265.0478618589324" width="12.784" height="69.95213814106762" fill="#da8750"/>
+<text x="873.4" y="355" text-anchor="middle">22</text>
+<rect x="895.96" y="309.48078023057815" width="12.784" height="25.51921976942184" fill="#298a80"/>
+<rect x="910.248" y="274.71214847351064" width="12.784" height="60.287851526489334" fill="#da8750"/>
+<text x="911.0" y="355" text-anchor="middle">23</text>
+<rect x="933.5600000000001" y="309.5891437888218" width="12.784" height="25.410856211178206" fill="#298a80"/>
+<rect x="947.8480000000001" y="224.9655588245088" width="12.784" height="110.0344411754912" fill="#da8750"/>
+<text x="948.6" y="355" text-anchor="middle">24</text>
+<rect x="971.1600000000001" y="290.3154687442176" width="12.784" height="44.68453125578239" fill="#298a80"/>
+<rect x="985.4480000000001" y="249.88215219976115" width="12.784" height="85.11784780023886" fill="#da8750"/>
+<text x="986.2" y="355" text-anchor="middle">25</text>
+<text x="440" y="380">Image number</text>
+<rect x="660" y="12" width="14" height="14" fill="#298a80"/><text x="682" y="24">Central corners</text>
+<rect x="825" y="12" width="14" height="14" fill="#da8750"/><text x="847" y="24">All corners</text>
+</g></svg>

@@ -7,9 +7,6 @@ venv/
 .mypy_cache/
 .ruff_cache/
 
-# Generated calibration results and corner caches
-/output/
-
 # Local editor and operating system files
 .vscode/
 .idea/
